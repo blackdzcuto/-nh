@@ -1,7 +1,7 @@
 {
-    "name": "𝐵𝑂𝑇 𝐷𝐼𝑁𝑂",
+    "name": "BOT BLACK",
     "version": "1.2.14",
-    "description": "bot fix bởi khang",
+    "description": "bot fix bởi BLACK",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
